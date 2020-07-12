@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<symbol id="Vectorbg" viewBox="0 0 610 728">
+	<path stroke="#2828BD" stroke-dasharray="1918" stroke-dashoffset="1918" d="M139.416 31.465C-159.248 309.376 101.471 367.764 214.964 1 336.277 136.37 767.08 317.52 345.08 103.2c249.464 421.158 298.621 150.841 244.533 624.277">
+		<animate fill="freeze" attributeName="stroke-dashoffset" calcMode="linear" dur="3s" repeatCount="1" values="1918; 0"/>
+	</path>
+</symbol>
+</svg>
